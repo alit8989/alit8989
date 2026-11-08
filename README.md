@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:7c2d12,100:ff8c42&height=200&section=header&text=OPUNTAKE&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Networking%20%7C%20Software%20%7C%20Cybersecurity&descAlignY=58&animation=fadeIn" width="100%" />
 
@@ -50,19 +50,27 @@
 
 ## `// FEATURED PROJECT`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&section=header&text=YALU%20PROGRAMMING%20LANGUAGE&fontSize=24&fontColor=ff8c42&animation=fadeIn" width="100%" />
+<a href="https://github.com/alit8989/Yalu">
+  <img src="./assets/yalu-logo.png" width="230" alt="Yalu Programming Language Logo" />
+</a>
+
+<br/>
 
 <img src="https://img.shields.io/badge/YALU-v0.3.0%20ALPHA-ff8c42?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/IMPLEMENTATION-C11-00599C?style=for-the-badge&logo=c&logoColor=white" />
 
-**Yalu** is an independent programming language project created by me and implemented in C.
+### Yalu Programming Language
+
+An independent, dynamically typed programming language implemented in C11.
 
 Its name was inspired by the Japanese word **やる (Yaru)** — a word I personally like.
 
-*Created by Alireza T. (Opuntake), with AI-assisted development using Gemini 3.8 Flash.*
+**Created by Alireza T. (Opuntake)**
+
+*AI-assisted development using Gemini 3.8 Flash.*
 
 <a href="https://github.com/alit8989/Yalu">
-<img src="https://img.shields.io/badge/EXPLORE_YALU-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPLORE_YALU-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -74,22 +82,22 @@ Its name was inspired by the Japanese word **やる (Yaru)** — a word I person
 ## `// GITHUB ANALYTICS`
 
 <a href="https://github.com/alit8989">
-<img src="https://ghstats.dev/api/card?username=alit8989" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alit8989&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF8C42&icon_color=FF8C42&text_color=C9D1D9" width="49%" />
 </a>
 <a href="https://github.com/alit8989">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alit8989&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF8C42&text_color=C9D1D9" width="49%" />
-</a>
-
-<br/>
-
-<a href="https://github.com/alit8989">
-<img src="https://streak-stats.demolab.com?user=alit8989&theme=transparent&hide_border=true&background=0D1117&ring=FF8C42&fire=FF8C42&currStreakLabel=FF8C42&sideLabels=C9D1D9&dates=777777" width="75%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alit8989&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF8C42&text_color=C9D1D9" width="49%" />
 </a>
 
 <br/>
 
 <a href="https://github.com/alit8989">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alit8989&theme=github_dark" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=alit8989&theme=transparent&hide_border=true&background=0D1117&ring=FF8C42&fire=FF8C42&currStreakLabel=FF8C42&sideLabels=C9D1D9&dates=777777" width="75%" />
+</a>
+
+<br/>
+
+<a href="https://github.com/alit8989">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alit8989&theme=github_dark" width="100%" />
 </a>
 
 </div>
