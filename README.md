@@ -41,7 +41,7 @@ Alireza T. (Opuntake)
 <div align="center">
 
 <a href="https://github.com/alit8989/Yalu">
-  <img src="./assets/yalu-logo.png" width="230" alt="Yalu Programming Language Logo" />
+  <img src="./yalu-logo.png" width="230" alt="Yalu Programming Language Logo" />
 </a>
 
 <br/>
